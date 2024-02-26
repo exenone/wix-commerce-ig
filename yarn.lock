@@ -1059,13 +1059,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/image-kit@npm:^1.53.0":
-  version: 1.54.0
-  resolution: "@wix/image-kit@npm:1.54.0"
+"@wix/image-kit@npm:^1.56.0":
+  version: 1.57.0
+  resolution: "@wix/image-kit@npm:1.57.0"
   dependencies:
     "@babel/runtime": ^7.23.9
     tslib: ^2.6.2
-  checksum: c07fd62eee8f5f41cb966e7a67d6fb59b90b14fd04be6eafdf69529c3963cd67c30e7f1e7b3fd0329b23f598f0f3e3bca60e5b994048df10350a1124e1c53d3a
+  checksum: 1191b6daa18b8e84f756ad8d0402bf5290c6b48f2655e55fd25ab823b5d132141fb917f79d17961fc39a74ee44b2a0b4027af01c819a4869e3a98610d9cfcbea
   languageName: node
   linkType: hard
 
@@ -1199,22 +1199,22 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/sdk-types@npm:^1.5.8":
-  version: 1.5.8
-  resolution: "@wix/sdk-types@npm:1.5.8"
-  checksum: ca5d338cc66a9948be627ba1804ae8aff52d65ddc5a0ca4d1103e750b825edcea4c5a6da43235928144167ccf0fcc30b969a37e67c36975bfba14a9ad7c0e929
+"@wix/sdk-types@npm:^1.5.9":
+  version: 1.5.9
+  resolution: "@wix/sdk-types@npm:1.5.9"
+  checksum: 40d49d5a45620231a9d278ec363f16cd3187e3c7d15a01d0e6da2f10fd5ce8050cedae411ca6bb024d593e06a9f3f62f4082fb52eeddd6f076aea300428bbc77
   languageName: node
   linkType: hard
 
 "@wix/sdk@npm:^1.5.0":
-  version: 1.7.5
-  resolution: "@wix/sdk@npm:1.7.5"
+  version: 1.7.6
+  resolution: "@wix/sdk@npm:1.7.6"
   dependencies:
     "@babel/runtime": ^7.23.2
     "@wix/identity": ^1.0.73
-    "@wix/image-kit": ^1.53.0
+    "@wix/image-kit": ^1.56.0
     "@wix/redirects": ^1.0.32
-    "@wix/sdk-types": ^1.5.8
+    "@wix/sdk-types": ^1.5.9
     crypto-js: ^4.2.0
     graphql: ^0.8.0 || ^0.9.0 || ^0.10.0 || ^0.11.0 || ^0.12.0 || ^0.13.0 || ^14.0.0 || ^15.0.0 || ^16.0.0 || ^17.0.0
     jose: ^5.2.1
@@ -1224,7 +1224,7 @@ __metadata:
   dependenciesMeta:
     graphql:
       optional: true
-  checksum: b66f166162da86469f3e9a6b406dc8045cf5f0a479dc470fb7e475ec6997c1434c32e9ebeef9d5488f00758c54c749e4a89fa1c318d20099f1dd5965d7bd390d
+  checksum: 1281693d5ca300cec79ceadb2ad23d9483358e0f3d56ed4b4e5d7a1364721430e7d12939b95f33a350c8f68265a0d5b918bbc71bd8ab3cb712b33c9bc8046e6f
   languageName: node
   linkType: hard
 
